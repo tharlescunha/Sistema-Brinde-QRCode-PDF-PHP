@@ -1,0 +1,50 @@
+.center{
+  text-align: center;
+
+}
+.right{
+  text-align: right;
+}
+
+#reader{
+  margin: auto;
+  width: 600px;
+}
+
+
+#qrcodeimg{
+  width: 600px;
+  text-align: center;
+  align-items: center;
+}
+
+span{
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 20px 50px 20px 50px;
+}
+
+
+
+/* info */
+
+
+#back img{
+  width: 70%;
+  margin: auto;
+  padding: 10px;
+}
+
+.group{
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+#status{
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 400px;
+  font-size: 40px;
+
+}
